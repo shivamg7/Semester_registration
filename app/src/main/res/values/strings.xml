@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="location">Latitude : %f Longitude : %f </string>
+    <string name="latitude">Latitude : %f</string>
+    <string name="longitude">Longitude : %f</string>
+    <string name="attempts">No of Attempts : %d</string>
+    <string name="service_not_available">GeoCoder service NA</string>
+    <string name="invalid_lat_long_used">Invaliid Latitude/Longitude</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_geocoder_available">No geoCode Available</string>
+
+
+    <string-array name="blood_group_array">
+        <item>A+ve</item>
+        <item>A-ve</item>
+        <item>B+ve</item>
+        <item>B-ve</item>
+        <item>AB+ve</item>
+        <item>AB-ve</item>
+        <item>O+ve</item>
+        <item>O-ve</item>
+    </string-array>
+
+    <string-array name="semester_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>
+
+
+
